@@ -58,7 +58,7 @@
    (vertex (position -1.9 -3.4) (angle 0.0))
   )
   (polygon 281e45a6-38cc-4240-bd04-5514979333a6 (layer top_documentation)
-   (width 0.1) (fill false) (grab_area true)
+   (width 0.1) (fill false) (grab_area false)
    (vertex (position -0.75 1.75) (angle 0.0))
    (vertex (position 0.75 1.75) (angle 0.0))
    (vertex (position 0.75 -1.75) (angle 0.0))
